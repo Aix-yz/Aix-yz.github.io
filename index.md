@@ -1,7 +1,5 @@
 # studyNotes
 
-[MQTT]: ./mqtt/docs	"MQTT"
-
-
+ \- [MQTT](mqtt/docs)
 
 
