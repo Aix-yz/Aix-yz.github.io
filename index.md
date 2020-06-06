@@ -1,5 +1,0 @@
-# studyNotes
-
- \- [MQTT](mqtt/docs)
-
-
